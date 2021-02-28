@@ -4,7 +4,7 @@
 
 <div size='20px'> Hi! My name is Smitkumar Panchal. Thank You for taking the time to view my GitHub Profile :smile: 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="64px"> </h2>
-<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/smitkumar-panchal-44162b1a0'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/smitkumar-panchal-44162b1a0'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/SmitPanchal271'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/Smit271'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
@@ -34,7 +34,8 @@ Building cool APIs |
 Web Development |
 Database 
 
-- 💬 Talk to me about Shows to binge watch on Netflix |
+- 💬 Talk to me about New Technologies |
+Shows to binge watch on Netflix |
 Cricket
 
 
@@ -47,5 +48,4 @@ Cricket
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smit271&layout=compact" />
 </a>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
