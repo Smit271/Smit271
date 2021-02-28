@@ -9,6 +9,7 @@
 <a href = 'https://www.github.com/Smit271'> <img width = '22px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 </div>
+<br>
 
 <h2> Skills </h2>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
@@ -18,21 +19,22 @@
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/youtube.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
 <img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
+<br>
 
 <h2> About Me</h2>
 
 - 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning Machine Learning
-Data Science
+- 🌱 I’m currently learning Machine Learning |
+Data Science |
 Data Engineering
 
-- 👯 I’m looking to collaborate on Projects related to ML/Data Science
-Building cool APIs
-Web Development
+- 👯 I’m looking to collaborate on Projects related to ML/Data Science |
+Building cool APIs |
+Web Development |
 Database 
 
-- 💬 Talk to me about Shows to binge watch on Netflix
+- 💬 Talk to me about Shows to binge watch on Netflix |
 Cricket
 
 
