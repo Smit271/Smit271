@@ -23,7 +23,7 @@
 
 <h2> About Me</h2>
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on developing my skills.
 
 - 🌱 I’m currently learning Machine Learning |
 Data Science |
