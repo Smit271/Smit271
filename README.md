@@ -44,9 +44,9 @@ Cricket
 
 <h2>You can see my projects and experiences on my portfolio.</h2>
 <a href = "https://smit271.github.io/">
-<img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.svg'>
+<img width ='22px' align='left' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png'>
 </a>
-  
+<br>
 ## My GitHub Stats 📊
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Smit271&count_private=true&show_icons=true&theme=radical" />
