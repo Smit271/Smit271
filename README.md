@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://smit271.github.io/](https://smit271.github.io/)
 
-- 📝 I regularly write articles on [LinkedIn](LinkedIn)
-
 - 💬 Ask me about **Python, JavaScript**
 
 - 📫 How to reach me **smitpanchal32@gmail.com**
