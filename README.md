@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Smit Panchal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A self-motivated backend software developer specializing in building robust, scalable server-side applications with a strong focus on performance, security, and maintainability.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smit271&label=Profile%20views&color=0e75b6&style=flat" alt="smit271" /> </p>
 
