@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smit271&label=Profile%20views&color=0e75b6&style=flat" alt="smit271" /> </p>
 
-- 🔭 I’m currently working on **University ERP**
-
 - 🌱 I’m currently learning **System Design with implementation in real life softwares**
 
 - 👯 I’m looking to collaborate on **Projects regarding FinTech**
